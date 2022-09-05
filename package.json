@@ -1,0 +1,81 @@
+{
+  "name": "Sahadža jóga",
+  "version": "2.0.0",
+  "private": true,
+  "author": "Creative Tim",
+  "license": "See license in https://www.creative-tim.com/license",
+  "description": "Sahadža jóga",
+  "homepage": "https://www.creative-tim.com/",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/ct-material-kit-react.git"
+  },
+  "engines": {
+    "node": "14 || 15 || 16",
+    "npm": ">=6"
+  },
+  "dependencies": {
+    "@emotion/cache": "11.9.3",
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
+    "@mui/icons-material": "5.8.4",
+    "@mui/material": "5.9.2",
+    "@mui/styled-engine": "5.8.7",
+    "@testing-library/jest-dom": "5.16.4",
+    "@testing-library/react": "13.3.0",
+    "@testing-library/user-event": "14.3.0",
+    "axios": "^0.27.2",
+    "chroma-js": "2.4.2",
+    "flatpickr": "4.6.13",
+    "prop-types": "15.8.1",
+    "react": "18.2.0",
+    "react-async": "^10.0.1",
+    "react-copy-to-clipboard": "5.1.0",
+    "react-countup": "6.3.0",
+    "react-dom": "18.2.0",
+    "react-flatpickr": "3.10.13",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-syntax-highlighter": "15.5.0",
+    "web-vitals": "2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-jsx-a11y": "6.6.1",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-react": "^7.31.1",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "prettier": "2.7.1"
+  }
+}

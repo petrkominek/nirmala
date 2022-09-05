@@ -1,0 +1,28 @@
+ {
+    "title":"Možnosti jak meditovat a rozvíjet se",
+    "description":"Dvanáct navazujících lekcí vám dá základní znalosti a zkušenosti jak meditovat a čistis jemný energetický systém. Každá lekce má doplňkové meditace a informace. Projděte si je pozorně a nespěchejte.",
+    "lessons":[
+        {
+            "id": "1",
+            "name":"Každodenní meditace",
+            "description":"Na youtube jsou vytvářeny nové meditace, pro zdokonalení meditačních dovedností.",
+            "img":"assets/img/dennimeditace.png",
+            "url":"/youtube"
+        },
+        {
+            "id": "2",
+            "name":"Meditace na téma",
+            "description":"Meditace zaměřené na různé témata. Meditace na téma je vhodná pro zdokonalení meditačních dovedností.",
+            "img":"assets/img/wordcloud.png",
+            "url":"/meditace"
+        },
+        {
+            "id": "3",
+            "name":"Meditační centra v ČR",
+            "description":"",
+            "img":"assets/img/lekce2/03.jpg",
+            "url":"/kurz03"
+        }
+       
+    ]
+}

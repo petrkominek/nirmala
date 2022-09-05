@@ -1,0 +1,76 @@
+ {
+    "title":"Kurz 10 lekcí",
+    "description1":"Deset kratších navazujících lekcí vám dá základní znalosti a zkušenosti jak meditovat a čistis jemný energetický systém. Každá lekce má doplňkové meditace a informace. Projděte si je pozorně a nespěchejte.",
+    "lessons":[
+        {
+            "id": "1",
+            "name":"Meditace na probuzení vnitřní energie",
+            "description":"Úvodní informace o kurzu a jemném energetickém systému, který je důležitý pro meditaci. V druhé polovině je meditace na probuzení podpůrné energie.",
+            "img":"/images/lekce1/pic01.jpg",
+            "url":"/lekce01"
+        },
+        {
+            "id": "2",
+            "name":"Vnímání jednotlivých čaker",
+            "description":"Čakry jsou shlukem energie v jednotlivých nervových plexech, jejich dobrá funkčnost zlepšuje nejenom naše meditace...",
+            "img":"/images/lekce1/pic02.jpg",
+            "url":"/lekce02"
+        },
+        {
+            "id": "3",
+            "name":"Energetické dráhy",
+            "description":"Uvniřr energetického systému se nachází tři energetické dráhy, které ovlivňují naše fyzické, mentální a emocionální chování",
+            "img":"/images/lekce1/pic03.jpg",
+            "url":"/lekce03"
+        },
+        {
+            "id": "4",
+            "name":"Mateřská energie",
+            "description":"Uvnitř křížové kosti se skrývá jemná energie, která pomáhá našemu duchvnímu růstu.",
+            "img":"/images/lekce1/pic04.jpg",
+            "url":"/lekce04"
+        },
+        {
+            "id": "5",
+            "name":"Muladhára a swadistána čakra",
+            "description":"Detailní seznámení a meditace na první dvě čakry energetického systému.",
+            "img":"/images/lekce1/pic05.jpg",
+            "url":"/lekce05"
+        },
+        {
+            "id": "6",
+            "name":"Nábí a anaháta čakra",
+            "description":"Lekce věnující se kvalitám a meditaci na tyto dně důležité čakry",
+            "img":"/images/lekce1/pic06.jpg",
+            "url":"/lekce06"
+        },
+        {
+            "id": "7",
+            "name":"Višudi a agya čakra",
+            "description":"Dobrá funkce těchto čaker odkrývá další jemné kvality našeho jemnějšího já",
+            "img":"/images/lekce1/pic07.jpg",
+            "url":"/lekce07"
+        },
+        {
+            "id": "8",
+            "name":"Sahasrára čakra",
+            "description":"Otevření této čakry je důležitým duchovním milníkem pro každého, kro hledá vyšší poznání.",
+            "img":"/images/lekce1/pic08.jpg",
+            "url":"/lekce08"
+        },
+        {
+            "id": "09",
+            "name":"Pozornost",
+            "description":"Pozornost v meditaci je základem kvalitní meditace",
+            "img":"/images/lekce1/pic10.jpg",
+            "url":"/lekce09"
+        },
+        {
+            "id": "10",
+            "name":"Shrnutí znalostí",
+            "description":"Každodenní meditace je důležitá pro upevnění všeho co jste se naučily v předchozích lekcích",
+            "img":"/images/lekce1/pic10.jpg",
+            "url":"/lekce10"
+        }
+    ]
+}

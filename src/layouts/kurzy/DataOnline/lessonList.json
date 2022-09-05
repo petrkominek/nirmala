@@ -1,0 +1,27 @@
+ {
+    "title":"Kurzy živě",
+    "description1":"Meditace a kurzy pro každý den.",
+    "lessons":[
+        {
+            "id": "1",
+            "name":"Facebook meditační kurz",
+            "description":"Vysíláme každé pondělí na FB",
+            "img":"/images/lekce3/ziveonline.png",
+            "url":"https://www.facebook.com/groups/559718772010977"
+        },
+        {
+            "id": "2",
+            "name":"Youtube - meditace",
+            "description":"meditace na každý den na Youtube",
+            "img":"/images/lekce3/dennimeditace.png",
+            "url":"https://www.youtube.com/c/eMeditaceOnlineMeditace"
+        },
+        {
+            "id": "3",
+            "name":"Meditace na téma",
+            "description":"5-10-15 min meditace na téma",
+            "img":"/images/lekce3/wordcloud2.png",
+            "url":"https://www.youtube.com/c/eMeditaceOnlineMeditace"
+        }
+    ]
+}

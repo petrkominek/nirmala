@@ -1,0 +1,90 @@
+ {
+    "title":"12-ti dílný kurz",
+    "description1":"Dvanáct navazujících lekcí vám dá základní znalosti a zkušenosti jak meditovat a čistit jemný energetický systém. Každá lekce má doplňkové meditace a informace. Projděte si je pozorně a nespěchejte.",
+    "lessons":[
+        {
+            "id": "1",
+            "name":"Lekce 1 - energetický systém & první meditace",
+            "description":"",
+            "img":"/images/lekce2/01.jpg",
+            "url":"/kurz01"
+        },
+        {
+            "id": "2",
+            "name":"Lekce 2 - jemný systém a meditace",
+            "description":"",
+            "img":"/images/lekce2/02.jpg",
+            "url":"/kurz02"
+        },
+        {
+            "id": "3",
+            "name":"Lekce 3 - levá a pravá energetická dráha",
+            "description":"",
+            "img":"/images/lekce2/03.jpg",
+            "url":"/kurz03"
+        },
+        {
+            "id": "4",
+            "name":"Lekce 4 - muladhára čakra",
+            "description":"",
+            "img":"/images/lekce2/04.jpg",
+            "url":"/kurz04"
+        },
+        {
+            "id": "5",
+            "name":"Lekce 5 - svadhistána čakra",
+            "description":"",
+            "img":"/images/lekce2/05.jpg",
+            "url":"/kurz05"
+        },
+        {
+            "id": "6",
+            "name":"Lekce 6 - nábhí čakra",
+            "description":"",
+            "img":"/images/lekce2/06.jpg",
+            "url":"/kurz06"
+        },
+        {
+            "id": "7",
+            "name":"Lekce 7 - anaháta čakra",
+            "description":"",
+            "img":"/images/lekce2/07.jpg",
+            "url":"/kurz07"
+        },
+        {
+            "id": "8",
+            "name":"Lekce 8 - višudhi čakra",
+            "description":"",
+            "img":"/images/lekce2/08.jpg",
+            "url":"/kurz08"
+        },
+        {
+            "id": "9",
+            "name":"Lekce 9 - adžňa čakra",
+            "description":"",
+            "img":"/images/lekce2/09.jpg",
+            "url":"/kurz09"
+        },
+        {
+            "id": "10",
+            "name":"Lekce 10 - sahasrára čakra",
+            "description":"",
+            "img":"/images/lekce2/10.jpg",
+            "url":"/kurz10"
+        },
+        {
+            "id": "11",
+            "name":"Lekce 11 - pozornost",
+            "description":"",
+            "img":"/images/lekce2/11.jpg",
+            "url":"/kurz11"
+        },
+        {
+            "id": "12",
+            "name":"Lekce 12 - duch - átmá",
+            "img":"/images/lekce2/12.jpg",
+            "description":"Spíše motivační video, uvědomění si svého \"já\" zabere nějaký ten pátek. Átmá je velké téma a budeme se mu věnovat dále, v pokročilých kurzech. Na konci je malý hudební medailonek k meditativnímu zamyšlení...",
+            "url":"/kurz12"
+        }
+    ]
+}
