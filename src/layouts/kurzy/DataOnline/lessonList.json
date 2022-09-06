@@ -14,7 +14,7 @@
             "name":"Youtube - meditace",
             "description":"meditace na každý den na Youtube",
             "img":"/images/lekce3/dennimeditace.png",
-            "url":"https://www.youtube.com/c/eMeditaceOnlineMeditace"
+            "url":"/youtube"
         },
         {
             "id": "3",

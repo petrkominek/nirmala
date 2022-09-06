@@ -4,10 +4,6 @@ import MKTypography from "components/MKTypography";
 import PropTypes from "prop-types";
 
 class InfoAreaY2 extends React.PureComponent {
-  constructor(props) {
-    super(props);
-    const { idkey, img, title } = this.props;
-  }
   componentDidMount() {
     if (!window.YT) {
       // If not, load the script asynchronously
@@ -20,11 +16,11 @@ class InfoAreaY2 extends React.PureComponent {
       firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
     } else {
       // If script is already there, load the video directly
-      this.loadVideo();
+      //this.loadVideo();
     }
   }
 
-  loadVideo() {
+  loadVideo = () => {
     const idkey = this.props.idkey;
     const youtubeTag = `youtube-player-${idkey}`;
     // the Player object is created uniquely based on the id in props
@@ -36,18 +32,23 @@ class InfoAreaY2 extends React.PureComponent {
         onReady: this.onPlayerReady,
       },
     });
-  }
+  };
 
   onPlayerReady(event) {
-    event.target.stopVideo();
+    event.target.playVideo();
   }
 
   render() {
     const { idkey, img, title } = this.props;
     return (
       <MKBox>
-        <div id={`youtube-player-${idkey}`}>
+        <div id={`youtube-player-${idkey}`} onClick={this.loadVideo}>
           <img src={img} alt={title} width="300" />
+        </div>
+        <div>
+          <MKTypography variant="h6" fontWeight="bold">
+            {title}
+          </MKTypography>
         </div>
       </MKBox>
     );

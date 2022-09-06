@@ -93,7 +93,7 @@ const routes = [
             component: <Kurzy />,
           },
           {
-            name: "Živé kurzy na Facebooku",
+            name: "Živé kurzy",
             route: "/kurzy",
             component: <Kurzy />,
           },

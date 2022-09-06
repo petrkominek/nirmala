@@ -146,7 +146,7 @@ function Youtube() {
                   var youtubePublishedDate = new Date(publishedAt);
                   if (medium && youtubePublishedDate.getMonth() == new Date().getMonth() - 1) {
                     return (
-                      <Grid item xs={12} md={4} sx={{ mb: 2 }} key={name}>
+                      <Grid item xs={12} md={4} sx={{ mb: 2 }} key={resourceId.videoId}>
                         <InfoAreaY2b
                           idkey={resourceId.videoId}
                           img={thumbnails.medium.url}
