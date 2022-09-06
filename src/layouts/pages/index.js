@@ -1,6 +1,6 @@
 // Material Kit 2 React pages
-import Presentation from "pages/Presentation";
+import HomePage from "pages/HomePage";
 
 export default function Home() {
-  return <Presentation />;
+  return <HomePage />;
 }

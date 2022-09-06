@@ -93,7 +93,7 @@ const routes = [
             component: <Kurzy />,
           },
           {
-            name: "Živé kurzy",
+            name: "Živé kurzy & meditace",
             route: "/kurzy",
             component: <Kurzy />,
           },

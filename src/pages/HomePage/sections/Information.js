@@ -78,26 +78,44 @@ function Information() {
                 />
               </Grid>
               <Grid item xs={12} md={6}>
-                <DefaultInfoCard
-                  icon=""
-                  title="Jak začít s meditací"
-                  description="The world's most popular react components library for building user interfaces."
+                <FilledInfoCard
+                  color="info"
+                  icon="content_copy"
+                  title="Jak začít?"
+                  description="Get inspiration and have an overview about the plugins that we used to create the Material Kit."
+                  action={{
+                    type: "internal",
+                    route: "/jakzacit",
+                    label: "Více",
+                  }}
                 />
               </Grid>
             </Grid>
             <Grid container spacing={3} sx={{ mt: { xs: 0, md: 6 } }}>
               <Grid item xs={12} md={6}>
-                <DefaultInfoCard
-                  icon="price_change"
+                <FilledInfoCard
+                  color="info"
+                  icon="content_copy"
                   title="Kurzy v regionech a online"
-                  description="Creating your design from scratch with dedicated designers can be very expensive. Start with our Design System."
+                  description="Get inspiration and have an overview about the plugins that we used to create the Material Kit."
+                  action={{
+                    type: "internal",
+                    route: "/kurzy",
+                    label: "Více",
+                  }}
                 />
               </Grid>
               <Grid item xs={12} md={6}>
-                <DefaultInfoCard
-                  icon="devices"
+                <FilledInfoCard
+                  color="info"
+                  icon="content_copy"
                   title="Zakladatelka sahadža jógy"
-                  description="Regardless of the screen size, the website content will naturally fit the given resolution."
+                  description="Get inspiration and have an overview about the plugins that we used to create the Material Kit."
+                  action={{
+                    type: "internal",
+                    route: "/mataji",
+                    label: "Více",
+                  }}
                 />
               </Grid>
             </Grid>
